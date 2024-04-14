@@ -12,7 +12,8 @@
     "setup": "node src/setup/setup.js",
     "upgrade": "node src/setup/upgrade.js",
     "reset": "node src/setup/reset.js",
-    "pub": "pm2 start npm --name 'my-crm-backend' -- run 'start' --port 4002"
+    "pub": "pm2 start npm --name 'my-crm-backend' -- run 'start' --port 4002",
+    "delete": "pm2 stop my-crm-backend && pm2 delete my-crm-backend"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.509.0",
