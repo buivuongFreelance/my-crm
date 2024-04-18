@@ -1,145 +1,57 @@
-<div align="center">
-    <a href="https://www.idurarapp.com/">
-  <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
-    </a>
-    <h1>Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
-    <p align="center">
-        <p>IDURAR ERP CRM | Simple To Use | 44 Languages </p>
-    </p>
-    
-  [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
+Tier 1: Reef Scout / Reef Hunter
 
-## 🇦🇱 🇩🇿 🇧🇩 🇧🇬 🇨🇳 🇭🇷 🇨🇿 🇩🇰 🇳🇱 🇺🇸 🇪🇪 🇫🇷 🇩🇪 🇬🇷 🇮🇳 🇭🇺 🇮🇩 🇮🇹 🇯🇵 🇰🇷 🇱🇻 🇱🇹 🇲🇰 🇲🇾 🇳🇴 🇵🇱 🇧🇷 🇵🇹 🇮🇷 🇷🇴 🇷🇺 🇸🇰 🇸🇮 🇪🇸 🇸🇪 🇹🇭 🇹🇷 🇺🇦 🇵🇰 🇻🇳 🇷🇸 🇪🇦 🇵🇭 🇫🇮
+Reef Scout: Small, nimble sharkfolk that use harpoons and nets to ensnare their foes.
+Reef Hunter (Upgrade): Enhanced with better armor and larger harpoons, these units are faster and deal more damage.
+Tier 2: Shellguard / Shellknight
 
-IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+Shellguard: Sharkfolk warriors equipped with coral and shell armor, wielding shell shields and tridents.
+Shellknight (Upgrade): Upgraded with enchanted shells and tridents that can cast water spells on attack.
+Tier 3: Tide Mystic / Tide Sage
 
-</div>
+Tide Mystic: Sharkfolk mages that can manipulate water currents to slow enemies or boost allies.
+Tide Sage (Upgrade): Gains the ability to cast more powerful spells like tidal waves and healing rains.
+Tier 4: Hammerhead Brute / Hammerhead Warlord
 
-**Live App Free Cloud Version** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
+Hammerhead Brute: Large, intimidating sharkfolk with a powerful bite and a slam attack with their head.
+Hammerhead Warlord (Upgrade): Even tougher, with a devastating charge attack that can stun enemies.
+Tier 5: Deepsea Priest / Abyssal Oracle
 
-```
-🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩`
-```
+Deepsea Priest: Priest-like sharkfolk that can bless allies and curse enemies, drawing power from the deep sea.
+Abyssal Oracle (Upgrade): Enhanced magical abilities, including summoning sea creatures and casting darkness spells.
+Tier 6: Mantaray Rider / Stormray Rider
 
-## Translation : 
+Mantaray Rider: Sharkfolk mounted on giant mantarays, capable of swift and agile maneuvers across the battlefield.
+Stormray Rider (Upgrade): Their mounts can generate electrical charges, adding lightning damage to attacks.
+Tier 7: Leviathan Guardian / Leviathan Overlord
 
-[French](doc/README.fr.md#French-Translation) , [Spanish](doc/README.sp.md#Spanish-Translation)
-## License
+Leviathan Guardian: Enormous and mighty sharkfolk heroes that can swallow smaller enemies whole and withstand massive damage.
+Leviathan Overlord (Upgrade): Gains magical resistances and a fearsome aura that lowers the morale of nearby enemies.
 
-IDURAR is Free Open Code Source [fair-code](http://faircode.io) distributed under the
-[**IDURAR License 1.0**](https://github.com/idurar/idurar-erp-crm/blob/master/LICENSE)
+Tier 1: Coral Snapper / Coral Biter
 
-## License FAQ :
+Coral Snapper: Small but agile sharkfolk who are adept at quick strikes, using their sharp teeth to snap at enemies.
+Coral Biter (Upgrade): Enhanced biting power and speed, these units can also inflict bleeding wounds that deal damage over time.
+Tier 2: Kelp Witch / Seaweed Sorceress
 
-## Features : 
+Kelp Witch: Sharkfolk spellcasters who use the surrounding kelp to entangle and immobilize their enemies.
+Seaweed Sorceress (Upgrade): They can now also use the kelp to camouflage and stealthily approach or escape from foes.
+Tier 3: Harpoonist / Spear Master
 
-Invoice Management 💰
+Harpoonist: Equipped with large harpoons, these units are excellent for ranged attacks and can pull enemies closer.
+Spear Master (Upgrade): Their harpoons are enchanted for extra damage and can strike multiple targets in a line.
+Tier 4: Wave Rider / Tsunami Charger
 
-Inventory Management 🧳
+Wave Rider: Mounted on swift sea creatures, these sharkfolk are capable of charging quickly across the battlefield.
+Tsunami Charger (Upgrade): They cause a small wave with each charge, potentially knocking back and damaging multiple enemies.
+Tier 5: Siren Caller / Siren Enchantress
 
-Accounting Management 📈
+Siren Caller: These sharkfolk use their haunting voices to disorient and confuse enemies, reducing their combat effectiveness.
+Siren Enchantress (Upgrade): Their songs can now also charm enemy units temporarily, causing them to fight for the Sharkfolk.
+Tier 6: Shark Knight / Shark Baron
 
-HR Management 🧑‍🤝‍🧑
+Shark Knight: Heavily armored warriors who can withstand a lot of damage and are formidable in melee combat.
+Shark Baron (Upgrade): They gain the ability to cause fear in their opponents, lowering enemy morale significantly when they charge.
+Tier 7: Kraken Summoner / Kraken Lord
 
-Ant Design Framework(AntD) 🐜
-
-Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
-
-### May i can use IDURAR for Commercial use :
-
-- Yes You can use IDURAR for free for personal or Commercial use.
-
-### May i can customize IDURAR as Saas and provide it to other users ?
-
-No, you cannot customize IDURAR as a SaaS and provide it to other users , You are not allowed to provide IDURAR software to third parties as a hosted or managed service or as softwase as service (Saas), where the service provides users with access to any substantial set of the features or functionality of this software.
-
-### For custom developement service or premium Support :
-
-[Get in touch](mailto:hello@idurarapp.com)
-
-## How To Deploy IDURAR ERP CRM :
-
-🔥 I would like to invite you for a weekly free IDURAR Webinar (Node.js React.js course), where you learn how to deploy IDURAR on cloud , and create a new api and new crud app with IDURAR in just one hour ?
-Please fill this form if you are interested : [https://forms.gle/qz2YZ3xQFQ77bGhS8](https://forms.gle/qz2YZ3xQFQ77bGhS8)
-
-The Webinar will be this Wednesday at 1pm GMT.
-
-## Our Sponsors
-
-  <a href="https://m.do.co/c/4ead8370b905?ref=idurarapp.com">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="201px">
-  </a>
-
-#
-
-<img width="1403" alt="Open Source ERP CRM" src="https://github.com/idurar/idurar-erp-crm/assets/136928179/a6712286-7ca6-4822-8902-fb7523533ee8">
-
-## Free Open Source ERP / CRM App
-
-IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
-
-**Live App Demo** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
-
-## Getting started
-
-
-1.[Clone the repository](INSTALLATION-INSTRUCTIONS.md#step-1-clone-the-repository)
-
-
-2.[Create Your MongoDB Account and Database Cluster](INSTALLATION-INSTRUCTIONS.md#Step-2-Create-Your-MongoDB-Account-and-Database-Cluster)
-
-3.[Edit the Environment File](INSTALLATION-INSTRUCTIONS.md#Step-3-Edit-the-Environment-File)
-
-4.[Update MongoDB URI](INSTALLATION-INSTRUCTIONS.md#Step-4-Update-MongoDB-URI)
-
-5.[Install Backend Dependencies](INSTALLATION-INSTRUCTIONS.md#Step-5-Install-Backend-Dependencies)
-
-6.[Run Setup Script](INSTALLATION-INSTRUCTIONS.md#Step-6-Run-Setup-Script)
-
-7.[Run the Backend Server](INSTALLATION-INSTRUCTIONS.md#Step-7-Run-the-Backend-Server)
-
-8.[Install Frontend Dependencies](INSTALLATION-INSTRUCTIONS.md#Step-8-Install-Frontend-Dependencies)
-
-9.[Run the Frontend Server](INSTALLATION-INSTRUCTIONS.md#Step-9-Run-the-Frontend-Server)
-
-## Docker Compose for local development
-
-- setup additional env variables, if necessary in the below file
-
-```bash
-docker-compose.yml
-```
-
-- After the necessary configurations run below command :
-
-```bash
-docker-compose up -d
-```
-
-This will build the images and bring up the containers for frontend, backend and mongodb.
-
-**_NOTE:_** This docker-compose setup is associated for local development only.
-
-## Contributing
-
-1.[How to contribute](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#how-to-contribute)
-
-2.[Reporting issues](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#reporting-issues)
-
-3.[Working on issues ](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#working-on-issues)
-
-4.[Submitting pull requests](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#submitting-pull-requests)
-
-5.[Commit Guidelines](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#commit-guidelines)
-
-6.[Coding Guidelines](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#coding-guidelines)
-
-7.[Questions](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#questions)
-
-## Custom Development Service
-
-Custom Development Service are available : [Get in touch](mailto:hello@idurarapp.com)
-
-## Show your support
-
-Dont forget to give a ⭐️ to this project ... Happy coding!
+Kraken Summoner: Powerful mages that can summon lesser krakens to the battlefield to fight for them.
+Kraken Lord (Upgrade): They can now summon a giant kraken or enhance their summoned krakens, making them larger and more powerful.
